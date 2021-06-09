@@ -1,2 +1,6 @@
 # Speech Emotion Recognition
- SER in animals thought voices
+
+
+Emotion Detection is a crucial parameter in Communication. Sensing emotions correctly improves communication and helps us understand the context better. To have an effective communication between two people emotions are a must. Collaboration of sensory provocations providing information about the emotional state of others can be decoded using Emotion Detection. But this capability is not constrained only to Humans. Latest studies suggests that higher order social functions including emotions might be present in animal species also. 
+Animal emotion detection can be very useful human-animal communication. When confined in an animal shelter, cats and dogs experience a wide range of emotions that profoundly affect their emotional health in the short term and may also have long-term impacts. Detecting animal emotions will help humans to detect pains in animals. 
+ So, a technology which can sense and detect animal emotions would be a boon. We aim to analyse audio data and speeches from animals. Machine Learning has advanced so much through Deep Neural Networks audios can be used to harness good amount of emotion-based information. When classifying the vocal abilities of the humans the machine learning has played an utmost important role.
